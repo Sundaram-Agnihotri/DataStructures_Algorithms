@@ -1,3 +1,6 @@
+..by priority queue -> disjkarsta algorithm
+time compleity : O(ElogV)
+
 class Pair {
     int distance, node;
     
