@@ -1,3 +1,5 @@
+// using BFS ALGOEITHM
+
 public:
     bool detect(int src, vector<int> adj[], int vis[]) {
       vis[src] = 1; 
